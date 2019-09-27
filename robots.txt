@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wiaphuobo.floridaelago.com/sitemap.xml
